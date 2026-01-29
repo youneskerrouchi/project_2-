@@ -19,7 +19,7 @@ class _miniProjectTeamState extends State<miniProjectTeam> {
   List<String> categories = ["Most views", "Nearby", "Latest", "Top Rated"];
   final List<Map<String, String>> myPlaces = [
     {
-      "name": "Hollow night, Team Cherry",
+      "name": "Hollow knight, Team Cherry",
       "image":
           "assets/my_image/MV5BMGIyYmJmZDgtOWQ1Ny00NDFiLTk2OTgtM2Q2ZWQ4OWIxZjg3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "location": "Adelaide, South Australia, Australia",
